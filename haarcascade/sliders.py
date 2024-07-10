@@ -6,7 +6,7 @@ def callback(x):
 
 #cap = cv2.VideoCapture(0)
 global imagem
-imagem = cv2.imread('../src/tyler.jpg')
+imagem = cv2.imread('../src/lula.jpeg')
 
 img = imagem.copy()
 
